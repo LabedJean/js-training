@@ -1,4 +1,4 @@
-script: node tester math
+script: node tester
 language: node_js
 node_js:
   - "node"
