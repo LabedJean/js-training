@@ -5,8 +5,9 @@
  * and return a string of all the element separated by a space
  *
  */
-
-
+function sentence(arrayToString){
+    return arrayToString.join(' ');
+}
 //* Begin of tests
 const assert = require('assert')
 
